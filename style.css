@@ -1,6 +1,13 @@
 h1 {
-
     text-align: center;
-    background-color: burlywood;
-    
+    background-color: aqua;
+    font-weight: bold;
+
+}
+
+
+p {
+    text-align: justify;
+    color: blue;
+    text-shadow: 2px;
 }
